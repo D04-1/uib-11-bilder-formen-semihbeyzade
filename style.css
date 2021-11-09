@@ -1,0 +1,38 @@
+img{
+    width: 500px;
+    height: 250px;
+    object-fit: cover;
+    
+}
+    
+
+
+#bild1{
+    border: solid 5px black;
+    width: 500px;
+    height: 250px;
+    
+}
+
+
+
+#foto{
+    border-radius: 100%;
+}
+.al{
+    margin-bottom: 200px;
+}
+
+#pic{
+    float: right;
+}
+
+#erst{
+background-image: url(./images/katze3.jpg);
+text-align: center;
+height: 250px;
+width: 500px;
+background-position: center;
+background-size: cover;
+
+}
