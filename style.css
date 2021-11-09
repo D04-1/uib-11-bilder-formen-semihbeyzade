@@ -28,11 +28,12 @@ img{
 }
 
 #erst{
-background-image: url(./images/katze3.jpg);
-text-align: center;
+background-image: url(./images/katze3.jpg);;
 height: 250px;
 width: 500px;
 background-position: center;
 background-size: cover;
+padding-top: 100px;
+text-align: center;
 
 }
